@@ -1,0 +1,30 @@
+public class TheJungle{
+	
+	public static void main(String [] args){
+		System.out.println("starting application");
+
+	}
+
+}
+
+
+class TheCompetition{
+
+
+}
+
+
+class Feline{
+	String catName;
+	int catStrength;
+}
+
+class Lion extends Feline{
+
+
+}
+
+class Tiger extends Feline{
+
+	
+}
